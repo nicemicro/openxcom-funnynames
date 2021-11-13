@@ -1,0 +1,30 @@
+lookWeights:
+  - 25
+  - 25
+  - 25
+  - 25
+maleFirst:
+  - James T.
+  - Jean-Luc
+  - Benjamin
+  - Luke
+  - Han
+  - Jeffery
+  - Jack
+femaleFirst:
+  - Catherine
+  - Leia
+  - Susan
+  - Samantha
+maleLast:
+  - Kirk
+  - Picard
+  - Sisko
+  - Skywalker
+  - Solo
+  - Sinclair
+  - O'Neill
+  - Janeway
+  - Organa
+  - Ivanova
+  - Carter

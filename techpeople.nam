@@ -1,0 +1,35 @@
+lookWeights:
+  - 25
+  - 25
+  - 25
+  - 25
+maleFirst:
+  - Linus
+  - Richard
+  - Bill
+  - Steve
+  - Tim
+  - Eric
+  - Alan
+  - John
+  - Lennart
+  - Greg
+femaleFirst:
+  - Ada
+  - Margaret
+  - Leah
+maleLast:
+  - Torvalds
+  - Stallman
+  - Gates
+  - Jobs
+  - Cook
+  - Raymond
+  - Turing
+  - von Neumann
+  - McAffee
+  - Poettering
+  - Kroah-Hartman
+  - Lovelace
+  - Hamilton
+  - Rowe

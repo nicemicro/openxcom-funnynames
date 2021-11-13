@@ -1,0 +1,17 @@
+lookWeights:
+  - 25
+  - 25
+  - 25
+  - 25
+maleFirst:
+  - Amazing
+  - Charming
+femaleFirst:
+  - Cute
+  - Endearing
+maleLast:
+  - Nice Micro
+  - Moxvallix
+  - RootBSD
+  - Cukmekerb
+  - Syscrash

@@ -1,0 +1,20 @@
+lookWeights:
+  - 25
+  - 25
+  - 25
+  - 25
+maleFirst:
+  - Bonaparte
+  - Abraham
+  - Winston
+  - Charles
+femaleFirst:
+  - Amelia
+  - Maria Theresia
+maleLast:
+  - Napoleon
+  - Lincoln
+  - Churchill
+  - de Gaulle
+  - Earhart
+  - Habsburg

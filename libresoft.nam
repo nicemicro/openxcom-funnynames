@@ -1,0 +1,25 @@
+lookWeights:
+  - 25
+  - 25
+  - 25
+  - 25
+maleFirst:
+  - Manjaro
+  - Arch
+  - Debian
+  - Ubuntu
+  - PopOS
+  - ElementaryOS
+  - GNU Slash
+  - Zorin
+  - Redhat
+  - Fedora
+  - SuSE
+maleLast:
+  - Enjoyer
+  - User
+  - Linux
+  - Hurd
+  - Plasma
+  - Gnome
+  - Wontboot
