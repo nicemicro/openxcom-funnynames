@@ -11,6 +11,8 @@ maleFirst:
   - Han
   - Jeffery
   - Jack
+  - Zap
+  - Paul
 femaleFirst:
   - Catherine
   - Leia
@@ -24,6 +26,8 @@ maleLast:
   - Solo
   - Sinclair
   - O'Neill
+  - Brannigan
+  - Atreides
   - Janeway
   - Organa
   - Ivanova

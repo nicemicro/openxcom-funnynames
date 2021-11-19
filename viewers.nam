@@ -6,9 +6,13 @@ lookWeights:
 maleFirst:
   - Amazing
   - Charming
+  - Cunning
+  - Deadly
 femaleFirst:
   - Cute
   - Endearing
+  - Fascinating
+  - Lively
 maleLast:
   - Nice Micro
   - Moxvallix
