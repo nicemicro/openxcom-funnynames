@@ -11,24 +11,22 @@ maleFirst:
   - Han
   - Jeffery
   - Jack
-  - Stilgar
-  - Leto
-  - Duncan
-  - Thuffir
   - Zap
   - Paul
+  - Leto
+  - Stilgar
+  - Duncan
+  - Thuffir
 femaleFirst:
   - Catherine
   - Leia
+  - Susan
+  - Samantha
   - Irulan
   - Jessica
   - Chani
-  - Susan
-  - Samantha
 maleLast:
   - Kirk
-  - Hawat
-  - Idaho
   - Picard
   - Sisko
   - Skywalker
@@ -37,7 +35,10 @@ maleLast:
   - O'Neill
   - Brannigan
   - Atreides
+  - Idaho
+  - Hawat
   - Janeway
   - Organa
   - Ivanova
   - Carter
+  - Corrino
