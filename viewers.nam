@@ -5,14 +5,20 @@ lookWeights:
   - 25
 maleFirst:
   - Amazing
+  - Buff
   - Charming
   - Cunning
   - Deadly
+  - Deadbeat
+  - Evil
 femaleFirst:
+  - Classy
   - Cute
   - Endearing
   - Fascinating
+  - Inspiring
   - Lively
+  - Shiny
 maleLast:
   - Nice Micro
   - Moxvallix
@@ -20,3 +26,4 @@ maleLast:
   - Cukmekerb
   - Syscrash
   - JamesP
+  - Ethanol6
