@@ -17,6 +17,10 @@ maleFirst:
   - Stilgar
   - Duncan
   - Thuffir
+  - Lee
+  - William
+  - Gaius
+  - Karl
 femaleFirst:
   - Catherine
   - Leia
@@ -25,6 +29,9 @@ femaleFirst:
   - Irulan
   - Jessica
   - Chani
+  - Kara
+  - Sharon
+  - Laura
 maleLast:
   - Kirk
   - Picard
@@ -37,8 +44,14 @@ maleLast:
   - Atreides
   - Idaho
   - Hawat
+  - Adama
+  - Baltar
+  - Agathon
   - Janeway
   - Organa
   - Ivanova
   - Carter
   - Corrino
+  - Thrace
+  - Valerii
+  - Roslin
