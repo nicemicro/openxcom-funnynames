@@ -4,21 +4,37 @@ lookWeights:
   - 25
   - 25
 maleFirst:
+  - Adventurous
   - Amazing
   - Buff
   - Charming
+  - Courageous
   - Cunning
+  - Dashing
   - Deadly
   - Deadbeat
+  - Elegant
   - Evil
+  - Honorable
+  - Marvelous
+  - Murderous
+  - Tenacious
 femaleFirst:
+  - Adveturesome
   - Classy
   - Cute
+  - Daring
+  - Determined
+  - Distinguished
   - Endearing
   - Fascinating
+  - Fashionable
+  - Homicidal
   - Inspiring
   - Lively
   - Shiny
+  - Stylish
+  - Wonderful
 maleLast:
   - Nice Micro
   - Moxvallix

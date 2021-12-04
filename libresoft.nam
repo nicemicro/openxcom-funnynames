@@ -8,10 +8,11 @@ maleFirst:
   - Arch
   - Debian
   - Ubuntu
-  - PopOS
+  - Pop_OS!
   - ElementaryOS
-  - GNU Slash
-  - Zorin
+  - Linux
+  - GNU + Linux
+  - ZorinOS
   - Redhat
   - Fedora
   - SuSE
@@ -20,13 +21,15 @@ maleFirst:
   - Kdenlive
   - LibreOffice
   - VLC
+  - GNU Hurd
+  - Free Software
+  - Open Source
 maleLast:
   - Enjoyer
   - User
-  - Linux
-  - Hurd
-  - Plasma
-  - Gnome
   - Fan
-  - BeGlitchin
-  - Wontboot
+  - Developer
+  - Tester
+  - Advocate
+  - Elitist
+  - YouTuber
