@@ -14,6 +14,7 @@ maleFirst:
   - John
   - Lennart
   - Greg
+  - Dennis
 femaleFirst:
   - Ada
   - Margaret
@@ -30,6 +31,7 @@ maleLast:
   - McAffee
   - Poettering
   - Kroah-Hartman
+  - Ritchie
   - Lovelace
   - Hamilton
   - Rowe
