@@ -21,6 +21,10 @@ maleFirst:
   - William
   - Gaius
   - Karl
+  - John
+  - Ka
+  - Malcolm
+  - Jayne
 femaleFirst:
   - Catherine
   - Leia
@@ -32,6 +36,9 @@ femaleFirst:
   - Kara
   - Sharon
   - Laura
+  - Samus
+  - Zoe
+  - Kaylee
 maleLast:
   - Kirk
   - Picard
@@ -47,6 +54,10 @@ maleLast:
   - Adama
   - Baltar
   - Agathon
+  - Chricton
+  - D'Argo
+  - Reynolds
+  - Cobb
   - Janeway
   - Organa
   - Ivanova
@@ -55,3 +66,6 @@ maleLast:
   - Thrace
   - Valerii
   - Roslin
+  - Aran
+  - Washbourne
+  - Frye
