@@ -4,24 +4,26 @@ lookWeights:
   - 25
   - 25
 maleFirst:
+  - Linux
+  - GNU + Linux
+  - OpenBSD
+  - GNU Hurd
   - Manjaro
   - Arch
   - Debian
   - Ubuntu
   - Pop_OS!
   - ElementaryOS
-  - Linux
-  - GNU + Linux
   - ZorinOS
   - Redhat
   - Fedora
   - SuSE
+  - Linux Mint
   - Blender
   - Godot
   - Kdenlive
   - LibreOffice
   - VLC
-  - GNU Hurd
   - Free Software
   - Open Source
 maleLast:
